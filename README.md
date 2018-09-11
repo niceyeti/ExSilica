@@ -1,4 +1,4 @@
-# Ex Silica: Google News partisan news content
+# Ex Silica: Google News partisan content dataset
 
 This repo contains all *partisan content* published by Google News from 6/2011 thru 8/2018, extracted with ABLE-ITEM, a tool I wrote for historical and social web content extraction.
 The headlines are augmented with social data obtained via the facebook graph api, for share counts and additional language synopses, where available.
